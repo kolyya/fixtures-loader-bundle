@@ -1,0 +1,5 @@
+services:
+  Kolyya\FixturesLoaderBundle\Command\FixturesLoadCommand:
+    tags:
+      name: console.command
+      command: kolyya:fixtures:load
