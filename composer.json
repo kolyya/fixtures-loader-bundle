@@ -1,7 +1,7 @@
 {
     "name": "kolyya/fixtures-loader-bundle",
     "type" : "symfony-bundle",
-    "description": "Bundle with a command for loading fixtures",
+    "description": "Symfony bundle with a command for loading fixtures",
     "license": "MIT",
     "authors": [
         {
